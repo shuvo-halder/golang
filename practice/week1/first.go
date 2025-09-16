@@ -1,0 +1,12 @@
+package main
+
+import ("fmt")
+
+func main(){
+	fmt.Println("hey it's go lang")
+
+	// define veriable
+
+	firstVeriable := " My name is Sam Shuvo"
+	fmt.Println(firstVeriable)
+}
